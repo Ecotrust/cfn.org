@@ -1,0 +1,401 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kause Widgets Plugin v1.0\n"
+"POT-Creation-Date: 2014-01-14 16:10+0100\n"
+"PO-Revision-Date: 2014-01-31 17:47+0100\n"
+"Last-Translator: \n"
+"Language-Team: Theme Canon <themecanon@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Language: da_DK\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././inc/widgets/widget_kause_accordion.php:21
+msgid "Displays an accordion"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_accordion.php:29
+msgid "Kause: Accordion"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_accordion.php:53
+msgid "Accordion"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_accordion.php:71
+#: .././inc/widgets/widget_kause_facebook.php:70
+#: .././inc/widgets/widget_kause_fact.php:68
+#: .././inc/widgets/widget_kause_more_posts.php:58
+#: .././inc/widgets/widget_kause_quote.php:64
+#: .././inc/widgets/widget_kause_search.php:65
+#: .././inc/widgets/widget_kause_single_post.php:86
+#: .././inc/widgets/widget_kause_single_post.php:99
+#: .././inc/widgets/widget_kause_statistics.php:78
+#: .././inc/widgets/widget_kause_tabs.php:71
+#: .././inc/widgets/widget_kause_toggle.php:71
+#: .././inc/widgets/widget_kause_twitter.php:64
+#: .././inc/widgets/widget_template.php:64
+msgid "Title"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_accordion.php:76
+msgid "Accordion sections"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_accordion.php:93
+#: .././inc/widgets/widget_kause_statistics.php:115
+#: .././inc/widgets/widget_kause_tabs.php:93
+#: .././inc/widgets/widget_kause_toggle.php:95
+msgid "Add"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_accordion.php:94
+#: .././inc/widgets/widget_kause_statistics.php:116
+#: .././inc/widgets/widget_kause_tabs.php:94
+#: .././inc/widgets/widget_kause_toggle.php:96
+msgid "Delete"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_contact_list.php:21
+msgid "Display a list of contact links"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_contact_list.php:29
+msgid "Kause: Contact list"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_contact_list.php:52
+msgid "Find us at"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_contact_list.php:70
+#: .././inc/widgets/widget_kause_quicklinks.php:71
+msgid "Title:"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_contact_list.php:75
+#: .././inc/widgets/widget_kause_quicklinks.php:76
+msgid "List of contact links"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_facebook.php:21
+msgid "Display Facebook box"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_facebook.php:29
+msgid "Kause: Facebook"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_facebook.php:56
+#: .././inc/widgets/widget_template.php:53
+msgid "Like us on facebook"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_facebook.php:75
+msgid "Facebook Page"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_facebook.php:80
+msgid "Width in pixels"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_facebook.php:80
+msgid "Default: 300. Sidebar is 207."
+msgstr ""
+
+#: .././inc/widgets/widget_kause_facebook.php:85
+msgid "Color scheme"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_facebook.php:87
+msgid "Light"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_facebook.php:88
+msgid "Dark"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_facebook.php:97
+msgid "Show header"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_facebook.php:103
+msgid "Show wall"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_facebook.php:109
+msgid "Show faces"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_facebook.php:115
+msgid "Show border"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_fact.php:21
+msgid "Displays a fact box"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_fact.php:29
+msgid "Kause: Fact Box"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_fact.php:53
+msgid "Did You Know"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_fact.php:73
+msgid "Fact 1st line"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_fact.php:78
+#: .././inc/widgets/widget_kause_fact.php:88
+msgid "Fittext ratio"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_fact.php:78
+msgid "higher numbers = smaller text"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_fact.php:83
+msgid "Fact 2nd line"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_fact.php:93
+msgid "Fact text"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_fact.php:98
+#: .././inc/widgets/widget_kause_statistics.php:127
+msgid "Read More Link"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_fact.php:125
+#: .././inc/widgets/widget_kause_statistics.php:168
+msgid "more"
+msgstr "mere"
+
+#: .././inc/widgets/widget_kause_more_posts.php:21
+msgid "Display more posts"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_more_posts.php:29
+msgid "Kause: More Posts"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_more_posts.php:46
+msgid "More posts"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_more_posts.php:63
+msgid "What to show"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_more_posts.php:65
+msgid "Latest posts"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_more_posts.php:66
+msgid "Random posts"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_more_posts.php:70
+msgid "Popular posts by views"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_more_posts.php:71
+msgid "Popular posts by comments"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_more_posts.php:92
+msgid "Display style"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_more_posts.php:94
+msgid "Images linking to posts"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_more_posts.php:95
+msgid "Images linking to lightbox"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_more_posts.php:96
+msgid "Text"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_more_posts.php:101
+msgid "Number of posts"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_more_posts.php:114
+msgid "Number of image columns"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_quicklinks.php:21
+msgid "Display a list of links"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_quicklinks.php:29
+msgid "Kause: Quicklinks"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_quicklinks.php:52
+msgid "Quicklinks"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_quote.php:21
+msgid "Displays a quote"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_quote.php:29
+msgid "Kause: Quote"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_quote.php:53
+#: .././inc/widgets/widget_kause_quote.php:69
+msgid "Quote"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_quote.php:74
+msgid "Byline"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_search.php:21
+msgid "Display Kause search"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_search.php:29
+msgid "Kause: Search"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_search.php:53
+msgid "Search"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_search.php:54
+msgid "Search..."
+msgstr ""
+
+#: .././inc/widgets/widget_kause_search.php:70
+msgid "Placeholder text"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_single_post.php:21
+msgid "Displays a single post"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_single_post.php:29
+msgid "Kause: Single Post"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_single_post.php:83
+msgid "Order posts by"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_single_post.php:85
+msgid "Date"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_single_post.php:90
+msgid "Descending"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_single_post.php:91
+msgid "Ascending"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_single_post.php:104
+msgid "Display post"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_single_post.php:122
+msgid "Use short excerpt?"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_statistics.php:21
+msgid "Display statistics"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_statistics.php:29
+msgid "Kause: Statistics"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_statistics.php:53
+msgid "Statistics"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_statistics.php:122
+msgid "Statistics text"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_tabs.php:21
+msgid "Displays tabs"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_tabs.php:29
+msgid "Kause: Tabs"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_tabs.php:53
+#: .././inc/widgets/widget_kause_tabs.php:76
+msgid "Tabs"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_toggle.php:21
+msgid "Displays a toggle"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_toggle.php:29
+msgid "Kause: Toggle"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_toggle.php:53
+msgid "Toggle"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_toggle.php:77
+msgid "toggle sections"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_twitter.php:21
+msgid "Display Twitter feed"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_twitter.php:29
+msgid "Kause: Twitter"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_twitter.php:52
+msgid "Latest tweets"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_twitter.php:69
+msgid "Twitter widget code"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_twitter.php:71
+msgid "Generate you own widget code here"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_twitter.php:81
+msgid "Use theme design instead?"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_twitter.php:86
+msgid "Number of tweets"
+msgstr ""
+
+#: .././inc/widgets/widget_kause_twitter.php:119
+msgid "Please insert your Twitter widget code!"
+msgstr ""
+
+#: .././inc/widgets/widget_template.php:21
+msgid "YOUR STANDARD TEMPLATE BANNER"
+msgstr ""
+
+#: .././inc/widgets/widget_template.php:29
+msgid "TEMPLATE_DISPLAY_TITLE"
+msgstr ""
